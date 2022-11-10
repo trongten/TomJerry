@@ -117,7 +117,7 @@ export default function App() {
         ></Animated.Image>
       </TouchableOpacity>
 
-      {/* <TouchableOpacity
+      <TouchableOpacity
         onPress={() => {
           dem.current = dem.current + 1;
           console.log(dem);
@@ -173,7 +173,7 @@ export default function App() {
             width: 90,
           }}
         ></Animated.Image>
-      </TouchableOpacity> */}
+      </TouchableOpacity>
 
       <TouchableOpacity
         onPress={() => {
